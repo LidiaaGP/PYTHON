@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\if_switch_2\com.python.pydev.analysis\v2_indexcache
+if_switch2.__init__|1670262094805075000|C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2|^
+if_switch2.ejercicio5|1667993076000000000|C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio5.py
+if_switch2.ejercicio6|1667993290000000000|C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio6.py
+if_switch2.ejercicio3|1667472232000000000|C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio3.py
+if_switch2.ejercicio4|1667992930000000000|C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio4.py
+if_switch2.ejercicio1|1667471376000000000|C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio1.py
+if_switch2.ejercicio2|1667471564000000000|C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio2.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+5=C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio1.py
+9=C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio2.py
+7=C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio6.py
+1=C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio5.py
+2=if_switch2.ejercicio5
+3=C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio4.py
+8=if_switch2.ejercicio6
+11=C:\Users\Lidia\Desktop\python\if_switch_2\if_switch2\ejercicio3.py
+12=if_switch2.ejercicio3
+4=if_switch2.ejercicio4
+6=if_switch2.ejercicio1
+10=if_switch2.ejercicio2
+-- END DICTIONARY
+-- START TREE 1
+11
+a|2|a!1^1#1*19@a!3^1#1*35@
+b|2|b!3^2#1*35@b!1^2#1*19@
+c|1|c!3^3#1*35@
+can|1|cantidad!5^2#1*51@
+let|2|letras!7^2#1*67@letra!7^4#1*67@
+mon|1|moneda!5^1#1*51@
+num|1|numerodni!7^1#1*67@
+res|1|resto!7^3#1*67@
+x|2|x!9^1#1*83@x!11^1#1*99@
+y|2|y!11^2#1*99@y!9^2#1*83@
+z|2|z!9^3#1*83@z!11^3#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

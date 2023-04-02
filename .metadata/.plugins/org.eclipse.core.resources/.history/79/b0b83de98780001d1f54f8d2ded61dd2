@@ -1,0 +1,4 @@
+from ej4.empleado import empleado
+class programador(empleado):
+    def __init__(self,dni,nombre,salariobruto,horasextra,preciohoraextra):
+        

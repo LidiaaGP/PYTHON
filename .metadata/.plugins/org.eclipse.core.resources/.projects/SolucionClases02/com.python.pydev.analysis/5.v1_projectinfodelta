@@ -1,0 +1,14 @@
+INSTUPejercicio02.Vehiculo
+C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio02\Vehiculo.py
+INFOS:&&1|1|2|0|3|1|7&&2|4|2|1|3|4|9&&3|5|2|6|3|5|9&&3|7|2|6|3|6|9&&3|8|2|6|3|7|9&&3|9|2|6|3|8|9&&3|10|2|6|3|9|9&&2|11|2|1|3|12|9
+marca=5
+precio=10
+num_ruedas=9
+color=8
+precio_IVA=11
+C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio02\Vehiculo.py=3
+Vehiculo.__init__=6
+ejercicio02.Vehiculo=2
+__init__=4
+Vehiculo=1
+modelo=7

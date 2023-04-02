@@ -1,0 +1,2 @@
+from ej3.conversiones import conversiones
+print("Grados fa a grados celsius ",conversiones.CelsiusAFahrenheit(celsius))

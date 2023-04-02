@@ -1,0 +1,4 @@
+VELOCIDAD_LUZ=300000
+SEGUNDOS_UN_AÑO=365*24*60*60
+añoluz=SEGUNDOS_UN_AÑO*VELOCIDAD_LUZ
+print("Un año luz tiene",añoluz,"km")

@@ -1,0 +1,3 @@
+class lavadora:
+    def __init__(self,precio_base,consumo,carga):
+        

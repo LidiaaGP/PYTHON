@@ -1,0 +1,105 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\SolucionRepasoClases01\com.python.pydev.analysis\v2_indexcache
+ejercicio01.ejercicio|1671541599280358000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio01\ejercicio.py
+ejercicio04.Circunferencia|1671541599695360000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio04\Circunferencia.py
+ejercicio01.Encuesta|1671541599314357000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio01\Encuesta.py
+ejercicio04.__init__|1671541599735360000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio04|^
+ejercicio02.Encendido_Luces|1671541599428360000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio02\Encendido_Luces.py
+ejercicio02.ejercicio|1671541599392360000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio02\ejercicio.py
+ejercicio03.__init__|1671541599587361000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio03|^
+ejercicio02.__init__|1671541599433360000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio02|^
+ejercicio05.ejercicio|1671541599844362000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio05\ejercicio.py
+ejercicio05.Articulo|1671541599809359000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio05\Articulo.py
+ejercicio03.ejercicio|1671541599511360000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio03\ejercicio.py
+ejercicio03.Productora|1671541599582359000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio03\Productora.py
+ejercicio03.Pelicula|1671541599547360000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio03\Pelicula.py
+ejercicio04.ejercicio|1671541599731361000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio04\ejercicio.py
+ejercicio01.__init__|1671541599318372000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio01|^
+ejercicio05.__init__|1671541599849361000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio05|^
+-- END DISKCACHE
+-- START DICTIONARY
+50
+32=Articulo.__init__
+39=Productora.__init__
+12=ejercicio01.Encuesta
+29=Encendido_Luces.anularFranjaHorariaA
+27=Encendido_Luces.anularFranjaHorariaB
+48=Circunferencia.set_radio
+21=C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio03\Productora.py
+11=C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio01\Encuesta.py
+22=ejercicio03.Productora
+18=ejercicio03.Pelicula
+50=Pelicula.set_titulo
+26=Encendido_Luces.__init__
+46=Pelicula.set_puntuacion
+33=Articulo.set_iva
+42=Pelicula.set_productora
+16=ejercicio02.ejercicio
+28=Encendido_Luces.establecerFranjaHorariaB
+2=ejercicio05.ejercicio
+15=C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio02\ejercicio.py
+13=C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio01\ejercicio.py
+1=C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio05\ejercicio.py
+37=Encuesta
+19=C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio03\ejercicio.py
+43=Circunferencia.set_pi
+49=Articulo.set_referencia
+41=Articulo.set_precio
+5=C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio04\ejercicio.py
+14=ejercicio01.ejercicio
+10=ejercicio02.Encendido_Luces
+36=Pelicula
+47=Circunferencia.__init__
+17=C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio03\Pelicula.py
+4=ejercicio05.Articulo
+30=Encendido_Luces.establecerFranjaHorariaA
+3=C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio05\Articulo.py
+25=Pelicula.set_duracion
+6=ejercicio04.ejercicio
+34=Articulo
+31=Productora
+24=Pelicula.set_director
+8=ejercicio04.Circunferencia
+44=Productora.set_pagina_web
+23=Pelicula.__init__
+38=Circunferencia
+9=C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio02\Encendido_Luces.py
+45=Encuesta.__init__
+7=C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio04\Circunferencia.py
+40=Productora.set_nombre
+20=ejercicio03.ejercicio
+35=Encendido_Luces
+-- END DICTIONARY
+-- START TREE 1
+5
+art|3|articulo2!1^4#1*19@Articulo!3^1#7*33@articulo1!1^3#1*19@
+cir|2|circunferencia!5^3#1*51@Circunferencia!7^1#7*65@
+enc|4|Encendido_Luces!9^3#7*81@Encuesta!11^2#7*97@encuesta!13^3#1*115@encendido!15^3#1*131@
+pel|3|Pelicula!17^1#7*145@pelicula1!19^6#1*163@pelicula2!19^7#1*163@
+pro|3|productora2!19^5#1*163@Productora!21^1#7*177@productora1!19^4#1*163@
+-- END TREE
+-- START TREE 2
+21
+__d|4|__director!23&17^6#9*147@__director!24&17^39#9*147@__duracion!23&17^7#9*147@__duracion!25&17^42#9*147@
+__f|6|__franjaHorariaBEstablecida!26&9^12#9*83@__franjaHorariaBEstablecida!27&9^18#9*83@__franjaHorariaBEstablecida!28&9^55#25*83@__franjaHorariaAEstablecida!26&9^11#9*83@__franjaHorariaAEstablecida!29&9^15#9*83@__franjaHorariaAEstablecida!30&9^34#25*83@
+__h|8|__horaEncendidoB!26&9^9#9*83@__horaEncendidoB!28&9^53#25*83@__horaApagadoA!26&9^8#9*83@__horaApagadoA!30&9^33#25*83@__horaEncendidoA!26&9^7#9*83@__horaEncendidoA!30&9^32#25*83@__horaApagadoB!26&9^10#9*83@__horaApagadoB!28&9^54#25*83@
+__i|8|__init__!31&21^3#9*178@__IVA!32&3^6#9*35@__IVA!33&3^27#9*35@__init__!34&3^3#9*34@__init__!35&9^6#9*82@__init__!36&17^3#9*146@__init__!37&11^4#9*98@__init__!38&7^5#9*66@
+__n|2|__nombre!39&21^4#9*179@__nombre!40&21^14#9*179@
+__p|9|__precio!41&3^22#13*35@__productora!23&17^5#9*147@__productora!42&17^14#9*147@__PI!38&7^3#5*67@__PI!43&7^16#13*67@__paginaWeb!39&21^5#9*179@__paginaWeb!44&21^17#9*179@__pregunta!45&11^5#9*99@__puntuacion!46&17^21#13*147@
+__r|4|__radio!47&7^6#9*67@__radio!48&7^22#13*67@__referencia!32&3^4#9*35@__referencia!49&3^18#9*35@
+__t|2|__titulo!23&17^4#9*147@__titulo!50&17^35#9*147@
+__v|2|__votosA!45&11^6#9*99@__votosB!45&11^7#9*99@
+anu|2|anularFranjaHorariaB!35&9^17#9*82@anularFranjaHorariaA!35&9^14#9*82@
+are|1|area!38&7^26#9*66@
+enc|1|encender!35&9^20#9*82@
+est|2|establecerFranjaHorariaA!35&9^27#9*82@establecerFranjaHorariaB!35&9^48#9*82@
+get|15|get_radio!38&7^11#9*66@get_votos_b!37&11^15#9*98@get_pi!38&7^8#9*66@get_pagina_web!31&21^10#9*178@get_iva!34&3^14#9*34@get_puntuacion!36&17^16#9*146@get_duracion!36&17^31#9*146@get_referencia!34&3^8#9*34@get_precio!34&3^11#9*34@get_votos_a!37&11^12#9*98@get_titulo!36&17^25#9*146@get_nombre!31&21^7#9*178@get_pregunta!37&11^9#9*98@get_productora!36&17^10#9*146@get_director!36&17^28#9*146@
+inc|2|incB!37&11^21#9*98@incA!37&11^18#9*98@
+lon|1|longitud!38&7^29#9*66@
+por|2|porcentajeA!37&11^27#9*98@porcentajeB!37&11^33#9*98@
+pre|2|precioFinaldescuento!34&3^32#9*34@precioFinal!34&3^29#9*34@
+set|12|set_productora!36&17^13#9*146@set_radio!38&7^20#9*66@set_precio!34&3^20#9*34@set_iva!34&3^26#9*34@set_duracion!36&17^41#9*146@set_referencia!34&3^17#9*34@set_titulo!36&17^34#9*146@set_director!36&17^38#9*146@set_pagina_web!31&21^16#9*178@set_pi!38&7^14#9*66@set_puntuacion!36&17^19#9*146@set_nombre!31&21^13#9*178@
+tot|1|total_votos!37&11^24#9*98@
+ver|2|ver_datos!36&17^44#9*146@ver_datos!31&21^19#9*178@
+-- END TREE

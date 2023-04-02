@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Lidia\Desktop\python\SolucionClases01"/>
+			<item value="C:\Users\Lidia\Desktop\python\SolucionClases02"/>
+			<item value="C:\Users\Lidia\Desktop\python\SolucionRepasoClases03"/>
+			<item value="C:\Users\Lidia\Desktop\python\SolucionRepasoClases02"/>
+			<item value="C:\Users\Lidia\Desktop\python\SolucionRepasoClases01"/>
+			<item value="C:\Users\Lidia\Desktop\python\SolucionExamenGestion"/>
+			<item value="C:\Users\Lidia\Desktop\python\variables_operadores3"/>
+			<item value="C:\Users\Usuario\Desktop\python\Ejemplos05"/>
+			<item value="C:\Users\Usuario\Desktop\python\Ejemplos04"/>
+			<item value="C:\Users\Usuario\Desktop\python\Ejemplos02"/>
+			<item value="C:\Users\Usuario\Desktop\python\Ejemplos03"/>
+			<item value="C:\Users\Usuario\Desktop\python\Ejemplos"/>
+			<item value="C:\Users\Usuario\Desktop\python\practica"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.python.pydev.ui.wizards.project.PythonProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.python.pydev.PythonCategory"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="721"/>
+		<item key="DIALOG_Y_ORIGIN" value="517"/>
+	</section>
+</section>

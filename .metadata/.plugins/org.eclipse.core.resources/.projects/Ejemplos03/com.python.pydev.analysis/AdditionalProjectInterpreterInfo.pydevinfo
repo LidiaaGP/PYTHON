@@ -1,0 +1,44 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\Ejemplos03\com.python.pydev.analysis\v2_indexcache
+ejemplo05.ejemplo05|1667990978000000000|C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo05\ejemplo05.py
+ejemplo02.__init__|1670262094590514000|C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo02|^
+ejemplo04.ejemplo04|1667991170000000000|C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo04\ejemplo04.py
+ejemplo04.__init__|1670262094635071000|C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo04|^
+ejemplo05.__init__|1670262094645094000|C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo05|^
+ejemplo04.calculos|1667990266000000000|C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo04\calculos.py
+ejemplo01.ejemplo01|1667989782000000000|C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo01\ejemplo01.py
+ejemplo02.ejemplo02|1667990084000000000|C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo02\ejemplo02.py
+ejemplo03.__init__|1670262094609899000|C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo03|^
+ejemplo03.ejemplo03|1667990176000000000|C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo03\ejemplo03.py
+ejemplo01.__init__|1670262094578514000|C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo01|^
+-- END DISKCACHE
+-- START DICTIONARY
+12
+8=ejemplo05.ejemplo05
+7=C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo05\ejemplo05.py
+9=C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo04\ejemplo04.py
+5=C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo01\ejemplo01.py
+10=ejemplo04.ejemplo04
+11=C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo03\ejemplo03.py
+4=ejemplo04.calculos
+1=C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo02\ejemplo02.py
+6=ejemplo01.ejemplo01
+2=ejemplo02.ejemplo02
+3=C:\Users\Lidia\Desktop\python\Ejemplos03\ejemplo04\calculos.py
+12=ejemplo03.ejemplo03
+-- END DICTIONARY
+-- START TREE 1
+8
+age|1|agendatelefonos!1^3#1*19@
+div|1|division!3^10#5*34@
+lis|5|lista3!5^11#1*51@lista1!5^4#1*51@lista4!5^32#1*51@lista2!5^8#1*51@lista5!5^34#1*51@
+mul|1|multiplicacion!3^7#5*34@
+nom|1|nombres!1^9#1*19@
+num|5|num1!7^3#1*67@num2!9^4#1*83@numero!5^38#1*51@num1!9^3#1*83@num2!7^4#1*67@
+res|1|resta!3^4#5*34@
+sum|2|suma!11^1#5*98@suma!3^1#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

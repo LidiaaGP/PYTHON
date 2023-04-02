@@ -1,0 +1,70 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\SolucionRepasoClases03\com.python.pydev.analysis\v2_indexcache
+ejercicio01.Alumno|1671541613151595000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio01\Alumno.py
+ejercicio01.ejercicio|1671541613219578000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio01\ejercicio.py
+ejercicio01.Curso|1671541613185579000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio01\Curso.py
+ejercicio02_03.ejercicio|1671541613326579000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio02_03\ejercicio.py
+ejercicio02_03.ListaMultimedia|1671541613359580000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio02_03\ListaMultimedia.py
+ejercicio02_03.Multimedia|1671541613393594000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio02_03\Multimedia.py
+ejercicio01.__init__|1671541613224595000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio01|^
+ejercicio02_03.__init__|1671541613397578000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio02_03|^
+-- END DISKCACHE
+-- START DICTIONARY
+24
+18=Multimedia
+2=ejercicio01.Alumno
+19=ListaMutimedia
+5=C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio01\ejercicio.py
+6=ejercicio01.ejercicio
+16=Alumno.set_direccion
+11=C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio02_03\Multimedia.py
+4=ejercicio02_03.ejercicio
+10=ejercicio02_03.ListaMultimedia
+7=C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio01\Curso.py
+1=C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio01\Alumno.py
+8=ejercicio01.Curso
+9=C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio02_03\ListaMultimedia.py
+17=Alumno.set_dni
+13=Curso.__init__
+20=Alumno
+23=Alumno.set_nombre
+14=Multimedia.__init__
+15=Alumno.__init__
+21=Curso
+12=ejercicio02_03.Multimedia
+22=ListaMutimedia.__init__
+3=C:\Users\Lidia\Desktop\python\SolucionRepasoClases03\ejercicio02_03\ejercicio.py
+24=Alumno.set_telefono
+-- END DICTIONARY
+-- START TREE 1
+9
+alu|1|Alumno!1^1#7*17@
+a√|2|a√!3^10#5*34@a√!5^10#5*50@
+bus|2|buscarposicion!3^22#5*34@buscar!5^17#5*50@
+cur|2|Curso!7^3#7*65@curso!5^21#1*51@
+fin|2|fin!3^30#1*35@fin!5^22#1*51@
+lis|2|ListaMutimedia!9^3#7*81@lista!3^29#1*35@
+men|2|menu!5^4#5*50@menu!3^4#5*34@
+mul|1|Multimedia!11^1#7*97@
+opc|2|opcion!5^26#5*51@opcion!3^34#5*35@
+-- END TREE
+-- START TREE 2
+16
+__a|2|__alumnos!13&7^8#9*67@__autor!14&11^5#9*99@
+__d|5|__duracion!14&11^7#9*99@__direccion!15&1^6#9*19@__direccion!16&1^28#9*19@__DNI!15&1^4#9*19@__DNI!17&1^22#9*19@
+__f|1|__formato!14&11^6#9*99@
+__i|4|__init__!18&11^3#9*98@__init__!19&9^7#9*82@__init__!20&1^3#9*18@__init__!21&7^7#9*66@
+__m|3|__MAX!21&7^5#5*67@__MAX!19&9^5#5*83@__multimedias!22&9^8#9*83@
+__n|2|__nombre!15&1^5#9*19@__nombre!23&1^25#9*19@
+__t|3|__telefono!15&1^7#9*19@__telefono!24&1^31#9*19@__titulo!14&11^4#9*99@
+add|1|add!19&9^14#9*82@
+a√|1|a√!21&7^11#9*66@
+bus|1|buscar!21&7^25#9*66@
+equ|1|equals!18&11^24#9*98@
+get|9|get_duracion!18&11^18#9*98@get_dni!20&1^9#9*18@get_autor!18&11^12#9*98@get_telefono!20&1^18#9*18@get!19&9^21#9*82@get_nombre!20&1^12#9*18@get_titulo!18&11^9#9*98@get_formato!18&11^15#9*98@get_direccion!20&1^15#9*18@
+set|4|set_nombre!20&1^24#9*18@set_dni!20&1^21#9*18@set_telefono!20&1^30#9*18@set_direccion!20&1^27#9*18@
+siz|1|size!19&9^11#9*82@
+tos|3|toString!18&11^21#9*98@toString!19&9^24#9*82@toString!20&1^33#9*18@
+ver|1|ver_datos_curso!21&7^35#9*66@
+-- END TREE

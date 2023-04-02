@@ -1,0 +1,9 @@
+class conversiones:
+    
+    @staticmethod
+    def CelsiusAFahrenheit(celsius):
+        return (celsius*9)/5 +32
+    
+    @staticmethod
+    def PulgadasACentimetros(pulgadas):
+        return pulgadas*2.54

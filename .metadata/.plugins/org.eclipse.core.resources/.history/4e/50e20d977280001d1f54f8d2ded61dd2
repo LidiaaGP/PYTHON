@@ -1,0 +1,3 @@
+from ej1.television import television
+television=television()
+television1=television("TV1", "Thompson", "TH1", 2020, 200)

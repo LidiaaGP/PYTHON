@@ -1,0 +1,7 @@
+from ej5.excepcionEdad import excepcionedad
+from ej5.excepciondni import excepciondni
+from ej5.persona import persona
+nombre=input("Dime nombre ")
+edad=input("Dime edad ")
+dni=input("Dime dni ")
+

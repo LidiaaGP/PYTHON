@@ -1,0 +1,47 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\if_switch\com.python.pydev.analysis\v2_indexcache
+if_switch.__init__|1670262094905548000|C:\Users\Lidia\Desktop\python\if_switch\if_switch|^
+if_switch.ejercicio9|1667470422000000000|C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio9.py
+if_switch.ejercicio4|1667469174000000000|C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio4.py
+if_switch.ejercicio3|1667396732000000000|C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio3.py
+if_switch.ejercicio2|1667396410000000000|C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio2.py
+if_switch.ejercicio1|1667389438000000000|C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio1.py
+if_switch.ejercicio8|1667470014000000000|C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio8.py
+if_switch.ejercicio7|1667469924000000000|C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio7.py
+if_switch.ejercicio6|1667469718000000000|C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio6.py
+if_switch.ejercicio5|1667469336000000000|C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio5.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+1=C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio7.py
+6=if_switch.ejercicio9
+9=C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio4.py
+5=C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio9.py
+7=C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio8.py
+11=C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio3.py
+13=C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio6.py
+15=C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio5.py
+10=if_switch.ejercicio4
+3=C:\Users\Lidia\Desktop\python\if_switch\if_switch\ejercicio2.py
+12=if_switch.ejercicio3
+4=if_switch.ejercicio2
+8=if_switch.ejercicio8
+2=if_switch.ejercicio7
+14=if_switch.ejercicio6
+16=if_switch.ejercicio5
+-- END DICTIONARY
+-- START TREE 1
+8
+a|2|a!1^1#1*19@a!3^2#1*35@
+b|2|b!3^3#1*35@b!1^2#1*19@
+c|1|c!3^4#1*35@
+km|1|km!5^5#5*51@
+num|8|numero2!7^2#1*67@numero!9^1#1*83@numero!11^1#1*99@numero1!7^1#1*67@numero2!13^2#1*115@numero1!13^1#1*115@numero3!13^3#1*115@numero!15^1#1*131@
+res|1|resultado!3^5#1*35@
+tip|1|tipo_vehiculo!5^1#1*51@
+ton|1|toneladas!5^9#5*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

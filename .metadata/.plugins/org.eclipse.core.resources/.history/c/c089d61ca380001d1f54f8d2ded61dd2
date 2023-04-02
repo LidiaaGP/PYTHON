@@ -1,0 +1,8 @@
+from ej5.excepciondni import excepciondni
+from ej5.excepcionEdad import excepcionedad
+class persona:
+    def __init__(self,dni,nombre,edad):
+        self.__nombre=nombre
+        self.__dni=dni
+        
+        

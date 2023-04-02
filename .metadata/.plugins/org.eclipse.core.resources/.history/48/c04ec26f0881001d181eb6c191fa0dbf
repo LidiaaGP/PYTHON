@@ -1,0 +1,13 @@
+class television:
+    def __init__(self,numeroSerie,marca,modelo,anhoFabricacion,precioBase):
+        self.numeroSerie=numeroSerie
+        self.marca=marca
+        self.modelo=modelo
+        self.anhoFabricacion=anhoFabricacion
+        self.precioBase=precioBase
+        
+    def precioIVA(self):
+        return self.precioBase*1.21
+    
+    def toString(self):
+        return str(self.numeroSerie)+" "+self.marca+" "+self.modelo+str(self.anhoFabricacion)+" "+str(self.precioBase)

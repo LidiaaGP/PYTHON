@@ -1,0 +1,6 @@
+class lavadora:
+    def __init__(self,precio_base,consumo,carga):
+        
+    def preciofinal(self):
+        precioconIVA=self.precio_base*1.21
+        

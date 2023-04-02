@@ -1,0 +1,77 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\Ejemplos04\com.python.pydev.analysis\v2_indexcache
+ejemplo05.ejemplo05|1668771772000000000|C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo05\ejemplo05.py
+ejemplo02.__init__|1670262094223016000|C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo02|^
+ejemplo04.ejemplo04|1668771538000000000|C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo04\ejemplo04.py
+ejemplo04.__init__|1670262094248500000|C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo04|^
+ejemplo05.__init__|1670262094261042000|C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo05|^
+ejemplo01.ejemplo01|1668768162000000000|C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo01\ejemplo01.py
+ejemplo02.ejemplo02|1668771350000000000|C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo02\ejemplo02.py
+ejemplo03.__init__|1670262094236035000|C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo03|^
+ejemplo03.ejemplo03|1668771358000000000|C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo03\ejemplo03.py
+ejemplo01.__init__|1670262094211000000|C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo01|^
+-- END DISKCACHE
+-- START DICTIONARY
+27
+8=ejemplo05.ejemplo05
+1=C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo04\ejemplo04.py
+3=C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo02\ejemplo02.py
+16=Persona
+12=Persona.set_anho_nacimiento
+13=Persona.set_dni
+19=Persona.set_nombre
+23=Prueba1.__init__
+4=ejemplo02.ejemplo02
+22=CuentaBancaria.set_titular
+18=CuentaBancaria
+25=Factura.__init__
+9=C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo01\ejemplo01.py
+5=C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo03\ejemplo03.py
+7=C:\Users\Lidia\Desktop\python\Ejemplos04\ejemplo05\ejemplo05.py
+2=ejemplo04.ejemplo04
+11=Persona.__init__
+24=Prueba2.__init__
+21=CuentaBancaria.set_saldo
+27=Matematicas
+26=Conversiones
+10=ejemplo01.ejemplo01
+20=CuentaBancaria.__init__
+15=Prueba2
+6=ejemplo03.ejemplo03
+14=Prueba1
+17=Factura
+-- END DICTIONARY
+-- START TREE 1
+6
+con|1|Conversiones!1^1#7*17@
+cue|2|cuenta1!3^61#1*35@CuentaBancaria!3^37#7*33@
+fac|2|factura1!5^15#1*51@Factura!5^1#7*49@
+mat|1|Matematicas!7^1#7*65@
+per|6|persona2!9^31#1*83@Persona!3^3#7*33@Persona!9^15#7*81@persona3!9^33#1*83@persona1!9^28#1*83@persona1!3^59#1*35@
+pru|4|Prueba2!9^8#7*81@prueba2!9^25#1*83@Prueba1!9^1#7*81@prueba1!9^22#1*83@
+-- END TREE
+-- START TREE 2
+21
+__a|2|__anhoNacimiento!11&3^9#9*35@__anhoNacimiento!12&3^27#9*35@
+__d|2|__dni!11&3^7#9*35@__dni!13&3^21#9*35@
+__i|6|__init__!14&9^4#9*82@__init__!15&9^10#9*82@__init__!16&9^17#9*82@__init__!17&5^6#9*50@__init__!16&3^6#9*34@__init__!18&3^38#9*34@
+__n|2|__nombre!11&3^8#9*35@__nombre!19&3^24#9*35@
+__s|2|__saldo!20&3^40#9*35@__saldo!21&3^52#9*35@
+__t|2|__titular!20&3^39#9*35@__titular!22&3^49#9*35@
+atr|2|atributo1!23&9^5#9*83@atributo2!24&9^11#9*83@
+bas|1|base!25&5^7#9*51@
+cam|1|cambioDolar!26&1^4#5*19@
+dat|1|datos!17&5^12#9*50@
+dni|1|dni!11&9^18#9*83@
+eda|1|edad!16&3^29#9*34@
+eur|1|euros_a_dolares!26&1^8#9*18@
+get|5|get_titular!18&3^42#9*34@get_nombre!16&3^14#9*34@get_anho_nacimiento!16&3^17#9*34@get_dni!16&3^11#9*34@get_saldo!18&3^45#9*34@
+iva|1|IVA!17&5^4#5*51@
+km_|1|km_a_millas!27&7^8#9*66@
+nom|1|nombre!11&9^19#9*83@
+set|5|set_nombre!16&3^23#9*34@set_anho_nacimiento!16&3^26#9*34@set_titular!18&3^48#9*34@set_saldo!18&3^51#9*34@set_dni!16&3^20#9*34@
+tot|1|total!17&5^9#9*50@
+var|1|variable1!27&7^4#5*67@
+ver|2|ver_datos!16&3^34#9*34@ver_datos!18&3^54#9*34@
+-- END TREE

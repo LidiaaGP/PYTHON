@@ -1,0 +1,14 @@
+class Empleado:
+   
+    def __init__(self, dni,nombre,salarioBruto):
+        self.__dni=dni
+        self.__nombre=nombre
+        self.__salarioBruto=salarioBruto
+    
+    
+    def salarioneto(self):
+        return self.__salarioBruto-self.__salarioBruto*0.12
+    
+    def toString(self):
+        return self.__dni+" "+self.__nombre+" "+str(self.__salarioBruto)+" Salario Neto: "+str(self.salarioneto())
+        

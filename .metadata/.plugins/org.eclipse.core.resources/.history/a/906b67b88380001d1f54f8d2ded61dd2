@@ -1,0 +1,7 @@
+class empleado:
+    def __init__(self,dni,nombre,salariobruto):
+        self.__dni=dni
+        self.__nombre=nombre
+        self.__salariobruto=salariobruto
+        
+        

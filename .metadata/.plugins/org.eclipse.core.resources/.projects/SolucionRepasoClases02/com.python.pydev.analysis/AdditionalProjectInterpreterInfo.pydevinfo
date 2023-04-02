@@ -1,0 +1,97 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\SolucionRepasoClases02\com.python.pydev.analysis\v2_indexcache
+ejercicio01.ejercicio|1671541608459039000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio01\ejercicio.py
+ejercicio04.__init__|1671541608867944000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio04|^
+ejercicio02.ejercicio|1671541608574946000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio02\ejercicio.py
+ejercicio04.Linea|1671541608829949000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio04\Linea.py
+ejercicio03.MarcaMaraton|1671541608719951000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio03\MarcaMaraton.py
+ejercicio03.__init__|1671541608723946000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio03|^
+ejercicio02.__init__|1671541608612962000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio02|^
+ejercicio04.Punto|1671541608863949000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio04\Punto.py
+ejercicio03.ejercicio|1671541608685953000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio03\ejercicio.py
+ejercicio02.NIF|1671541608608949000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio02\NIF.py
+ejercicio01.SocioClub|1671541608494039000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio01\SocioClub.py
+ejercicio04.ejercicio|1671541608796950000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio04\ejercicio.py
+ejercicio01.__init__|1671541608499041000|C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio01|^
+-- END DISKCACHE
+-- START DICTIONARY
+41
+18=ejercicio01.ejercicio
+3=C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio04\Linea.py
+9=C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio02\NIF.py
+22=SocioClub.set_dni
+39=MarcaMaraton.set_segundos
+8=ejercicio03.MarcaMaraton
+32=MarcaMaraton.anterior
+35=SocioClub.set_nombre
+14=ejercicio04.Punto
+38=Linea.set_punto_fin
+2=ejercicio04.ejercicio
+23=NIF.set_dni
+7=C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio03\MarcaMaraton.py
+36=Linea.__init__
+37=Linea.set_punto_ini
+1=C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio04\ejercicio.py
+13=C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio04\Punto.py
+19=SocioClub.__init__
+25=SocioClub
+15=C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio01\SocioClub.py
+12=ejercicio02.ejercicio
+26=NIF
+4=ejercicio04.Linea
+29=Linea
+33=Punto.__init__
+41=Punto.desplaza_y
+40=Punto.desplaza_x
+21=SocioClub.set_cuota_mensual
+20=SocioClub.set_apellidos
+34=Punto.set_nombre
+24=MarcaMaraton.set_horas
+6=ejercicio03.ejercicio
+30=MarcaMaraton.set_minutos
+10=ejercicio02.NIF
+17=C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio01\ejercicio.py
+27=MarcaMaraton
+16=ejercicio01.SocioClub
+28=Punto
+5=C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio03\ejercicio.py
+11=C:\Users\Lidia\Desktop\python\SolucionRepasoClases02\ejercicio02\ejercicio.py
+31=MarcaMaraton.siguiente
+-- END DICTIONARY
+-- START TREE 1
+6
+lin|2|linea!1^5#1*19@Linea!3^3#7*33@
+mar|3|marca1!5^3#1*51@marca2!5^4#1*51@MarcaMaraton!7^1#7*65@
+nif|2|NIF!9^1#7*81@nif!11^4#1*99@
+num|1|numero!11^3#1*99@
+pun|2|Punto!13^1#7*113@punto!1^4#1*19@
+soc|3|SocioClub!15^1#7*129@socio1!17^3#1*147@socio2!17^4#1*147@
+-- END TREE
+-- START TREE 2
+24
+__a|2|__apellidos!19&15^6#9*131@__apellidos!20&15^31#9*131@
+__c|1|__cuotaMensual!21&15^35#13*131@
+__d|2|__dni!22&15^23#13*131@__DNI!23&9^14#9*83@
+__h|1|__horas!24&7^19#13*67@
+__i|5|__init__!25&15^3#9*130@__init__!26&9^3#9*82@__init__!27&7^3#9*66@__init__!28&13^3#9*114@__init__!29&3^5#9*34@
+__l|1|__letra!23&9^15#9*83@
+__m|3|__minutos!30&7^25#13*67@__minutos!31&7^43#17*67@__minutos!32&7^54#17*67@
+__n|4|__nombre!33&13^6#9*115@__nombre!34&13^21#9*115@__nombre!19&15^5#9*131@__nombre!35&15^28#9*131@
+__p|4|__puntoIni!36&3^6#9*35@__puntoFin!36&3^7#9*35@__puntoIni!37&3^16#9*35@__puntoFin!38&3^19#9*35@
+__s|3|__segundos!39&7^32#13*67@__segundos!31&7^41#13*67@__segundos!32&7^52#13*67@
+__x|2|__x!33&13^4#9*115@__x!40&13^24#9*115@
+__y|2|__y!33&13^5#9*115@__y!41&13^27#9*115@
+ant|1|anterior!27&7^50#9*66@
+ase|1|aSegundos!27&7^36#9*66@
+des|2|desplaza_y!28&13^26#9*114@desplaza_x!28&13^23#9*114@
+get|14|get_apellidos!25&15^15#9*130@get_letra!26&9^6#9*82@get_x!28&13^8#9*114@get_dni!26&9^9#9*82@get_punto_ini!29&3^9#9*34@get_dni!25&15^9#9*130@get_minutos!27&7^11#9*66@get_nombre!28&13^16#9*114@get_cuota_mensual!25&15^18#9*130@get_horas!27&7^8#9*66@get_segundos!27&7^14#9*66@get_nombre!25&15^12#9*130@get_punto_fin!29&3^12#9*34@get_y!28&13^12#9*114@
+igu|1|igualQue!27&7^61#9*66@
+may|1|mayorQue!27&7^73#9*66@
+men|1|menorQue!27&7^67#9*66@
+mos|1|mostrar!26&9^17#9*82@
+mue|4|mueveIzquierda!29&3^25#9*34@mueveArriba!29&3^29#9*34@mueveAbajo!29&3^33#9*34@mueveDerecha!29&3^21#9*34@
+set|11|set_horas!27&7^17#9*66@set_punto_fin!29&3^18#9*34@set_punto_ini!29&3^15#9*34@set_nombre!28&13^20#9*114@set_dni!26&9^12#9*82@set_segundos!27&7^30#9*66@set_apellidos!25&15^30#9*130@set_nombre!25&15^27#9*130@set_dni!25&15^21#9*130@set_minutos!27&7^23#9*66@set_cuota_mensual!25&15^33#9*130@
+sig|1|siguiente!27&7^39#9*66@
+ver|4|verLinea!29&3^37#9*34@verMarca!27&7^79#9*66@ver_socio!25&15^39#9*130@ver_punto!28&13^29#9*114@
+-- END TREE

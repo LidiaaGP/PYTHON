@@ -1,0 +1,14 @@
+INSTUPejemplo02.Velero
+C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo02\Velero.py
+INFOS:&&1|1|2|0|3|3|7&&2|4|2|1|3|5|9&&3|5|2|6|3|7|9&&2|7|2|1|3|9|9&&2|8|2|1|3|13|9&&3|5|2|9|3|14|9&&2|10|2|1|3|16|9&&2|11|2|1|3|19|9
+__numMastiles=5
+precio_dia_alquiler=10
+Velero.__init__=6
+C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo02\Velero.py=3
+set_num_mastiles=8
+ejemplo02.Velero=2
+Velero=1
+Velero.set_num_mastiles=9
+get_num_mastiles=7
+toString=11
+__init__=4

@@ -1,0 +1,4 @@
+from ej5.excepciondni import excepciondni
+from ej5.excepcionEdad import excepcionedad
+class persona:
+    

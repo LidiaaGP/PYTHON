@@ -1,0 +1,3 @@
+class empleado:
+    def __init__(self):
+        

@@ -1,0 +1,13 @@
+INSTUPejemplo01.Empleado
+C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\Empleado.py
+INFOS:&&1|1|2|0|3|3|7&&2|4|2|1|3|5|9&&3|5|2|6|3|7|9&&2|7|2|1|3|9|9&&2|8|2|1|3|13|9&&3|5|2|9|3|14|9&&2|10|2|1|3|16|9
+__salario=5
+set_salario=8
+Empleado=1
+ejemplo01.Empleado=2
+Empleado.__init__=6
+C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\Empleado.py=3
+Empleado.set_salario=9
+toString=10
+__init__=4
+get_salario=7

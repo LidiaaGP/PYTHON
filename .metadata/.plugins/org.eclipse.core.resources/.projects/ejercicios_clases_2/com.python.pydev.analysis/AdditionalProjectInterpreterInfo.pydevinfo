@@ -1,0 +1,70 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\ejercicios_clases_2\com.python.pydev.analysis\v2_indexcache
+ejercicio2.__init__|1670262093861182000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio2|^
+ejercicio1.ej1|1669804946000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio1\ej1.py
+ejercicio3.rectangulo|1669808992000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio3\rectangulo.py
+ejercicio4.ej4|1669809410000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio4\ej4.py
+ejercicio4.empleado|1669809184000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio4\empleado.py
+ejercicio1.reloj|1669804624000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio1\reloj.py
+ejercicio2.ej2|1669807516000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio2\ej2.py
+ejercicio3.__init__|1670262093895181000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio3|^
+ejercicio3.ej3|1669809062000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio3\ej3.py
+ejercicio4.__init__|1670585339721304000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio4|^
+ejercicio1.__init__|1670262093825666000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio1|^
+ejercicio2.vehiculo|1669808146000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio2\vehiculo.py
+-- END DISKCACHE
+-- START DICTIONARY
+24
+10=ejercicio1.ej1
+17=rectangulo
+20=reloj
+23=vehiculo.__init__
+2=ejercicio4.ej4
+6=ejercicio3.rectangulo
+4=ejercicio4.empleado
+22=empleado.__init__
+3=C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio4\empleado.py
+21=rectangulo.__init__
+12=ejercicio1.reloj
+13=C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio2\vehiculo.py
+11=C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio1\reloj.py
+16=ejercicio2.ej2
+19=vehiculo
+5=C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio3\rectangulo.py
+7=C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio3\ej3.py
+18=empleado
+9=C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio1\ej1.py
+8=ejercicio3.ej3
+24=reloj.__init__
+1=C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio4\ej4.py
+14=ejercicio2.vehiculo
+15=C:\Users\Lidia\Desktop\python\ejercicios_clases_2\ejercicio2\ej2.py
+-- END DICTIONARY
+-- START TREE 1
+4
+emp|2|empleado1!1^2#1*19@empleado!3^1#7*33@
+rec|2|rectangulo!5^1#7*49@rectangulo1!7^2#1*67@
+rel|3|reloj1!9^3#1*83@reloj!11^1#7*97@reloj2!9^4#1*83@
+veh|3|vehiculo!13^1#7*113@vehiculo1!15^3#1*131@vehiculo2!15^4#1*131@
+-- END TREE
+-- START TREE 2
+17
+__i|4|__init__!17&5^2#9*50@__init__!18&3^2#9*34@__init__!19&13^3#9*114@__init__!20&11^2#9*98@
+alt|1|altura!21&5^4#9*51@
+ape|1|apellidos!22&3^5#9*35@
+are|2|area!18&3^10#9*34@area!17&5^7#9*50@
+bas|1|base!21&5^3#9*51@
+col|1|color!23&13^6#9*115@
+dni|1|dni!22&3^3#9*35@
+esd|1|esDigital!24&11^7#9*99@
+iva|1|IVA!19&13^2#5*115@
+mar|2|marca!24&11^3#9*99@marca!23&13^4#9*115@
+mod|2|modelo!24&11^4#9*99@modelo!23&13^5#9*115@
+nom|1|nombre!22&3^4#9*35@
+num|1|num_ruedas!23&13^7#9*115@
+per|2|perimetro!17&5^5#9*50@perimetro!18&3^8#9*34@
+pre|3|precio!24&11^5#9*99@precio!23&13^8#9*115@precio_IVA!19&13^10#9*114@
+sal|1|salario!22&3^6#9*35@
+sto|1|stock!24&11^6#9*99@
+-- END TREE

@@ -1,0 +1,3 @@
+class excepcionedad(Exception):
+    def __init__(Exception):
+        

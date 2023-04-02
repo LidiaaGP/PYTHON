@@ -1,0 +1,9 @@
+class television:
+    def __init__(self,numserie,marca,modelo,anhoFabricacion,precioBase):
+        self.__numserie=numserie
+        self.__marca=marca
+        self.__modelo=modelo
+        self.__anhoFabricacion=anhoFabricacion
+        self.__precioBase=precioBase
+        
+    

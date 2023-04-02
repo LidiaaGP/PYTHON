@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\ejercicios_clases\com.python.pydev.analysis\v2_indexcache
+ejercicio2.__init__|1670262094013451000|C:\Users\Lidia\Desktop\python\ejercicios_clases\ejercicio2|^
+ejercicio1.ej1|1669803968000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases\ejercicio1\ej1.py
+ejercicio2.Utilidades|1669804204000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases\ejercicio2\Utilidades.py
+ejercicio1.Coche|1669803936000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases\ejercicio1\Coche.py
+ejercicio2.ej2|1669804220000000000|C:\Users\Lidia\Desktop\python\ejercicios_clases\ejercicio2\ej2.py
+ejercicio1.__init__|1670262093976456000|C:\Users\Lidia\Desktop\python\ejercicios_clases\ejercicio1|^
+-- END DISKCACHE
+-- START DICTIONARY
+9
+7=Coche
+2=ejercicio1.ej1
+8=Utilidades
+9=Coche.__init__
+1=C:\Users\Lidia\Desktop\python\ejercicios_clases\ejercicio1\ej1.py
+6=ejercicio2.Utilidades
+3=C:\Users\Lidia\Desktop\python\ejercicios_clases\ejercicio1\Coche.py
+4=ejercicio1.Coche
+5=C:\Users\Lidia\Desktop\python\ejercicios_clases\ejercicio2\Utilidades.py
+-- END DICTIONARY
+-- START TREE 1
+2
+coc|3|coche1!1^3#1*19@coche2!1^4#1*19@Coche!3^1#7*33@
+uti|1|Utilidades!5^1#7*49@
+-- END TREE
+-- START TREE 2
+9
+__i|1|__init__!7&3^3#9*34@
+cal|1|calcularAutonomia!7&3^9#9*34@
+con|1|CONSTANTE_LASER!8&5^2#5*51@
+dep|1|deposito!9&3^6#9*35@
+imp|1|imprimirConstante!8&5^5#9*50@
+kpl|1|kpl!9&3^7#9*35@
+may|1|mayorAutonomia!7&3^11#9*34@
+mod|1|modelo!9&3^4#9*35@
+pas|1|pasajeros!9&3^5#9*35@
+-- END TREE

@@ -1,0 +1,3 @@
+from ej4.empleado import empleado
+class comercial(empleado):
+    def __init__(self,dni,nombre,salariobruto,ventas,porcentaje):

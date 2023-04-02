@@ -1,0 +1,13 @@
+from ej4.empleado import empleado
+class comercial(empleado):
+    def __init__(self,dni,nombre,salariobruto,ventas,porcentaje):
+        super().__init__(dni, nombre, salariobruto)
+        self.__ventas=ventas
+        self.__porcentaje=porcentaje
+        
+    def salarioneto(self):
+        return super().salarioneto()+(self.__ventas*self.__porcentaje)
+        
+    def toString(self):
+        return super().toString()+" "+str(self.__ventas)+" "+str(self.__porcentaje)
+    

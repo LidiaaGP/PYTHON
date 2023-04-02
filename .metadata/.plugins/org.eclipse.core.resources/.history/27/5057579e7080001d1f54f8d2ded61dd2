@@ -1,0 +1,77 @@
+class television:
+    def __init__(self,numeroSerie,marca,modelo,anhoFabricacion,precioBase):
+        self.numSerie=numeroSerie
+        self.marca=marca
+        self.modelo=modelo
+        self.anhoFabricacion=anhoFabricacion
+        self.precioBase=precioBase
+
+    def get_num_serie(self):
+        return self.__numSerie
+
+
+    def get_marca(self):
+        return self.__marca
+
+
+    def get_modelo(self):
+        return self.__modelo
+
+
+    def get_anho_fabricacion(self):
+        return self.__anhoFabricacion
+
+
+    def get_precio_base(self):
+        return self.__precioBase
+
+
+    def set_num_serie(self, value):
+        self.__numSerie = value
+
+
+    def set_marca(self, value):
+        self.__marca = value
+
+
+    def set_modelo(self, value):
+        self.__modelo = value
+
+
+    def set_anho_fabricacion(self, value):
+        self.__anhoFabricacion = value
+
+
+    def set_precio_base(self, value):
+        self.__precioBase = value
+
+
+    def del_num_serie(self):
+        del self.__numSerie
+
+
+    def del_marca(self):
+        del self.__marca
+
+
+    def del_modelo(self):
+        del self.__modelo
+
+
+    def del_anho_fabricacion(self):
+        del self.__anhoFabricacion
+
+
+    def del_precio_base(self):
+        del self.__precioBase
+
+        
+    def precio_con_IVA(self):
+        return self.precioBase*1.21
+    numSerie = property(get_num_serie, set_num_serie, del_num_serie, "numSerie's docstring")
+    marca = property(get_marca, set_marca, del_marca, "marca's docstring")
+    modelo = property(get_modelo, set_modelo, del_modelo, "modelo's docstring")
+    anhoFabricacion = property(get_anho_fabricacion, set_anho_fabricacion, del_anho_fabricacion, "anhoFabricacion's docstring")
+    precioBase = property(get_precio_base, set_precio_base, del_precio_base, "precioBase's docstring")
+    
+    

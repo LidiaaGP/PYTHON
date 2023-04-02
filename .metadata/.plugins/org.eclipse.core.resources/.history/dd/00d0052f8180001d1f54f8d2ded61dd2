@@ -1,0 +1,4 @@
+class conversiones:
+    @staticmethod
+    CelsiusAFarenheit(cls):
+    

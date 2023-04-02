@@ -1,0 +1,8 @@
+from ej4.empleado import empleado
+from ej4.comercial import comercial
+from ej4.programador import programador
+
+
+comercial1=comercial("00000000A","Esmerigildo Pena Sanchez",1100,3500,0.1)
+
+print(comercial.toString())

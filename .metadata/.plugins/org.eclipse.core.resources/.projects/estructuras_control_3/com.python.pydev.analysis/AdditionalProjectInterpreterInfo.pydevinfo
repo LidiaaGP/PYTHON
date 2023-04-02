@@ -1,0 +1,31 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\estructuras_control_3\com.python.pydev.analysis\v2_indexcache
+estructuras_control_3.dibujar_hexagonos|1668597936000000000|C:\Users\Lidia\Desktop\python\estructuras_control_3\estructuras_control_3\dibujar_hexagonos.py
+estructuras_control_3.estrofas|1668597750000000000|C:\Users\Lidia\Desktop\python\estructuras_control_3\estructuras_control_3\estrofas.py
+estructuras_control_3.escudos_ejercito_romano|1668597814000000000|C:\Users\Lidia\Desktop\python\estructuras_control_3\estructuras_control_3\escudos_ejercito_romano.py
+estructuras_control_3.__init__|1670262094410406000|C:\Users\Lidia\Desktop\python\estructuras_control_3\estructuras_control_3|^
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=C:\Users\Lidia\Desktop\python\estructuras_control_3\estructuras_control_3\estrofas.py
+4=estructuras_control_3.dibujar_hexagonos
+3=C:\Users\Lidia\Desktop\python\estructuras_control_3\estructuras_control_3\dibujar_hexagonos.py
+2=estructuras_control_3.estrofas
+6=estructuras_control_3.escudos_ejercito_romano
+5=C:\Users\Lidia\Desktop\python\estructuras_control_3\estructuras_control_3\escudos_ejercito_romano.py
+-- END DICTIONARY
+-- START TREE 1
+8
+aso|4|asonante2!1^18#5*19@asonante4!1^42#9*19@asonante1!1^7#5*19@asonante3!1^30#9*19@
+car|1|caracter!3^2#1*35@
+con|4|consonante4!1^43#9*19@consonante2!1^19#5*19@consonante3!1^31#9*19@consonante1!1^8#5*19@
+i|2|i!1^6#5*19@i!5^5#5*51@
+lad|1|lado!3^1#1*35@
+num|3|numeroVersos!1^1#1*19@numeroEscudos!5^2#1*51@numeroLegionarios!5^1#1*51@
+ver|4|verso1!1^4#5*19@verso3!1^27#9*19@verso2!1^15#5*19@verso4!1^39#9*19@
+voc|1|vocales!1^5#5*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

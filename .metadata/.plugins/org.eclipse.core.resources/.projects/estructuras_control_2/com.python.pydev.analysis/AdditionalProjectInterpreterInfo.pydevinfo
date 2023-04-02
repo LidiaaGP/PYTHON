@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\estructuras_control_2\com.python.pydev.analysis\v2_indexcache
+estructuras_control_2.triangulos|1668595206000000000|C:\Users\Lidia\Desktop\python\estructuras_control_2\estructuras_control_2\triangulos.py
+estructuras_control_2.area_rectangulo|1668162166000000000|C:\Users\Lidia\Desktop\python\estructuras_control_2\estructuras_control_2\area_rectangulo.py
+estructuras_control_2.__init__|1670262094474835000|C:\Users\Lidia\Desktop\python\estructuras_control_2\estructuras_control_2|^
+estructuras_control_2.ascensor|1668167202000000000|C:\Users\Lidia\Desktop\python\estructuras_control_2\estructuras_control_2\ascensor.py
+estructuras_control_2.codigo_barras|1668595060000000000|C:\Users\Lidia\Desktop\python\estructuras_control_2\estructuras_control_2\codigo_barras.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+6=estructuras_control_2.triangulos
+2=estructuras_control_2.area_rectangulo
+7=C:\Users\Lidia\Desktop\python\estructuras_control_2\estructuras_control_2\ascensor.py
+8=estructuras_control_2.ascensor
+5=C:\Users\Lidia\Desktop\python\estructuras_control_2\estructuras_control_2\triangulos.py
+3=C:\Users\Lidia\Desktop\python\estructuras_control_2\estructuras_control_2\codigo_barras.py
+4=estructuras_control_2.codigo_barras
+1=C:\Users\Lidia\Desktop\python\estructuras_control_2\estructuras_control_2\area_rectangulo.py
+-- END DICTIONARY
+-- START TREE 1
+16
+Ax|1|Ax!1^1#1*19@
+Ay|1|Ay!1^2#1*19@
+Bx|1|Bx!1^3#1*19@
+By|1|By!1^4#1*19@
+alt|1|altura!1^7#1*19@
+are|1|area!1^9#1*19@
+bas|1|base!1^6#1*19@
+cod|1|codigo!3^1#1*35@
+com|1|comprobacion!3^11#1*35@
+cua|1|cuadradomayor!5^12#5*50@
+dig|1|digito!3^4#5*35@
+imp|1|imposible!5^1#5*50@
+lad|3|lado2!5^31#1*51@lado3!5^32#1*51@lado1!5^30#1*51@
+pis|2|pisodestino!7^2#1*67@pisoinicial!7^1#1*67@
+pos|1|pos!3^5#5*35@
+sum|3|suma!3^2#1*35@sumacuadradosmenores!5^21#5*50@suma!7^3#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

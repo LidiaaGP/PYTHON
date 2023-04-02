@@ -1,0 +1,3 @@
+from ej4.empleado import empleado
+class programador(empleado):
+    

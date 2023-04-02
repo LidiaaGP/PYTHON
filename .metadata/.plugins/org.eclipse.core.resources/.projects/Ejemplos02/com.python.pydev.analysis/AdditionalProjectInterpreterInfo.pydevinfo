@@ -1,0 +1,37 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\Ejemplos02\com.python.pydev.analysis\v2_indexcache
+ejemplos02.ejemplo04|1667471804000000000|C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo04.py
+ejemplos02.__init__|1670262094724524000|C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02|^
+ejemplos02.ejemplo03|1667471644000000000|C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo03.py
+ejemplos02.ejemplo02|1667471496000000000|C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo02.py
+ejemplos02.ejemplo01|1667471382000000000|C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo01.py
+ejemplos02.ejemplo06|1667472508000000000|C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo06.py
+ejemplos02.ejemplo05|1667472298000000000|C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo05.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+2=ejemplos02.ejemplo04
+3=C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo06.py
+10=ejemplos02.ejemplo03
+8=ejemplos02.ejemplo02
+1=C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo04.py
+6=ejemplos02.ejemplo01
+11=C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo05.py
+4=ejemplos02.ejemplo06
+12=ejemplos02.ejemplo05
+5=C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo01.py
+7=C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo02.py
+9=C:\Users\Lidia\Desktop\python\Ejemplos02\ejemplos02\ejemplo03.py
+-- END DICTIONARY
+-- START TREE 1
+5
+i|2|i!1^3#1*19@i!3^12#1*35@
+num|3|numero!3^6#5*35@numero!5^2#1*51@numero!7^3#1*67@
+pun|1|puntuacion!9^4#1*83@
+sum|1|suma!3^4#1*35@
+tex|1|texto!11^34#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,95 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\Examenprueba\com.python.pydev.analysis\v2_indexcache
+ej4.__init__|1671557256140171000|C:\Users\Lidia\Desktop\python\Examenprueba\ej4|^
+ej5.programa|1671568494580575000|C:\Users\Lidia\Desktop\python\Examenprueba\ej5\programa.py
+ej1.programa|1671570100477376000|C:\Users\Lidia\Desktop\python\Examenprueba\ej1\programa.py
+ej3.conversiones|1671553172802024000|C:\Users\Lidia\Desktop\python\Examenprueba\ej3\conversiones.py
+ej5.excepciondni|1671566631935623000|C:\Users\Lidia\Desktop\python\Examenprueba\ej5\excepciondni.py
+ej4.programa|1671557820380255000|C:\Users\Lidia\Desktop\python\Examenprueba\ej4\programa.py
+ej3.__init__|1671568833149154000|C:\Users\Lidia\Desktop\python\Examenprueba\ej3|^
+ej4.comercial|1671557775432037000|C:\Users\Lidia\Desktop\python\Examenprueba\ej4\comercial.py
+ej3.programa|1671568829259037000|C:\Users\Lidia\Desktop\python\Examenprueba\ej3\programa.py
+ej4.empleado|1671557766366730000|C:\Users\Lidia\Desktop\python\Examenprueba\ej4\empleado.py
+ej1.television|1671570048997676000|C:\Users\Lidia\Desktop\python\Examenprueba\ej1\television.py
+ej4.programador|1671556860920514000|C:\Users\Lidia\Desktop\python\Examenprueba\ej4\programador.py
+ej5.__init__|1671568186115933000|C:\Users\Lidia\Desktop\python\Examenprueba\ej5|^
+ej5.persona|1671568073691890000|C:\Users\Lidia\Desktop\python\Examenprueba\ej5\persona.py
+ej5.excepcionEdad|1671567211699764000|C:\Users\Lidia\Desktop\python\Examenprueba\ej5\excepcionEdad.py
+ej1.__init__|1671569067217628000|C:\Users\Lidia\Desktop\python\Examenprueba\ej1|^
+-- END DISKCACHE
+-- START DICTIONARY
+37
+24=empleado.__init__
+8=ej5.programa
+37=conversiones
+9=C:\Users\Lidia\Desktop\python\Examenprueba\ej4\empleado.py
+14=ej5.excepciondni
+23=persona.__init__
+28=programador
+21=C:\Users\Lidia\Desktop\python\Examenprueba\ej1\television.py
+34=excepcionedad.__init__
+26=comercial
+36=television.__init__
+11=C:\Users\Lidia\Desktop\python\Examenprueba\ej5\excepcionEdad.py
+2=ej4.comercial
+30=empleado
+25=programador.__init__
+22=ej1.television
+15=C:\Users\Lidia\Desktop\python\Examenprueba\ej5\persona.py
+27=persona
+29=television
+31=excepciondni
+7=C:\Users\Lidia\Desktop\python\Examenprueba\ej5\programa.py
+20=ej1.programa
+33=excepciondni.__init__
+6=ej3.conversiones
+13=C:\Users\Lidia\Desktop\python\Examenprueba\ej5\excepciondni.py
+4=ej4.programa
+1=C:\Users\Lidia\Desktop\python\Examenprueba\ej4\comercial.py
+10=ej4.empleado
+17=C:\Users\Lidia\Desktop\python\Examenprueba\ej4\programador.py
+19=C:\Users\Lidia\Desktop\python\Examenprueba\ej1\programa.py
+16=ej5.persona
+18=ej4.programador
+35=comercial.__init__
+3=C:\Users\Lidia\Desktop\python\Examenprueba\ej4\programa.py
+12=ej5.excepcionEdad
+5=C:\Users\Lidia\Desktop\python\Examenprueba\ej3\conversiones.py
+32=excepcionedad
+-- END DICTIONARY
+-- START TREE 1
+10
+com|2|comercial!1^2#7*17@comercial1!3^6#1*35@
+con|1|conversiones!5^1#7*49@
+dni|1|dni!7^7#5*67@
+eda|1|edad!7^6#5*67@
+emp|2|empleado1!3^8#1*35@empleado!9^1#7*81@
+exc|2|excepcionedad!11^1#7*97@excepciondni!13^1#7*113@
+nom|1|nombre!7^5#5*67@
+per|2|persona!15^4#7*129@persona1!7^8#5*67@
+pro|2|programador1!3^7#1*35@programador!17^2#7*145@
+tel|3|television1!19^3#1*163@television2!19^5#1*163@television!21^1#7*177@
+-- END TREE
+-- START TREE 2
+19
+__d|2|__dni!23&15^10#13*131@__dni!24&9^3#9*83@
+__h|1|__horasextra!25&17^5#9*147@
+__i|7|__init__!26&1^3#9*18@__init__!27&15^5#9*130@__init__!28&17^3#9*146@__init__!29&21^2#9*178@__init__!30&9^2#9*82@__init__!31&13^2#9*114@__init__!32&11^2#9*98@
+__m|2|__mensaje!33&13^3#9*115@__mensaje!34&11^3#9*99@
+__n|2|__nombre!23&15^6#9*131@__nombre!24&9^4#9*83@
+__p|2|__preciohoraextra!25&17^6#9*147@__porcentaje!35&1^6#9*19@
+__s|1|__salariobruto!24&9^5#9*83@
+__v|1|__ventas!35&1^5#9*19@
+anh|1|anhoFabricacion!36&21^6#9*179@
+cel|1|CelsiusAFahrenheit!37&5^4#9*50@
+get|2|get_mensaje!32&11^5#9*98@get_mensaje!31&13^4#9*114@
+lib|1|LibrasAKilogramos!37&5^12#9*50@
+mar|1|marca!36&21^4#9*179@
+mod|1|modelo!36&21^5#9*179@
+num|1|numserie!36&21^3#9*179@
+pre|2|precioconIVA!29&21^9#9*178@precioBase!36&21^7#9*179@
+pul|1|PulgadasACentimetros!37&5^8#9*50@
+sal|3|salarioneto!30&9^7#9*82@salarioneto!26&1^8#9*18@salarioneto!28&17^8#9*146@
+tos|5|toString!26&1^11#9*18@toString!28&17^11#9*146@toString!27&15^16#9*130@toString!29&21^12#9*178@toString!30&9^10#9*82@
+-- END TREE

@@ -1,0 +1,17 @@
+INSTUPejercicio03.Productora
+C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio03\Productora.py
+INFOS:&&1|1|2|0|3|1|7&&2|4|2|1|3|3|9&&3|5|2|6|3|4|9&&3|7|2|6|3|5|9&&2|8|2|1|3|7|9&&2|9|2|1|3|10|9&&2|10|2|1|3|13|9&&3|5|2|11|3|14|9&&2|12|2|1|3|16|9&&3|7|2|13|3|17|9&&2|14|2|1|3|19|9
+Productora=1
+__paginaWeb=7
+Productora.__init__=6
+Productora.set_pagina_web=13
+__nombre=5
+ver_datos=14
+Productora.set_nombre=11
+C:\Users\Lidia\Desktop\python\SolucionRepasoClases01\ejercicio03\Productora.py=3
+set_pagina_web=12
+get_nombre=8
+ejercicio03.Productora=2
+__init__=4
+set_nombre=10
+get_pagina_web=9

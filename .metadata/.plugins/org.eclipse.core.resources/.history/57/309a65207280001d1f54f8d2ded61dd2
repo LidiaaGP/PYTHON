@@ -1,0 +1,2 @@
+from ej1.television import television
+television=television()

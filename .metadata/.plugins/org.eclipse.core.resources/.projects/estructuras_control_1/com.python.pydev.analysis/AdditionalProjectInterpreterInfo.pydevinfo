@@ -1,0 +1,35 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\estructuras_control_1\com.python.pydev.analysis\v2_indexcache
+ejercicios.piscina|1668077086000000000|C:\Users\Lidia\Desktop\python\estructuras_control_1\ejercicios\piscina.py
+ejercicios.radares_tramo|1668161268000000000|C:\Users\Lidia\Desktop\python\estructuras_control_1\ejercicios\radares_tramo.py
+ejercicios.zapping|1667995010000000000|C:\Users\Lidia\Desktop\python\estructuras_control_1\ejercicios\zapping.py
+ejercicios.__init__|1670262094533066000|C:\Users\Lidia\Desktop\python\estructuras_control_1\ejercicios|^
+-- END DISKCACHE
+-- START DICTIONARY
+6
+3=C:\Users\Lidia\Desktop\python\estructuras_control_1\ejercicios\piscina.py
+1=C:\Users\Lidia\Desktop\python\estructuras_control_1\ejercicios\zapping.py
+4=ejercicios.piscina
+5=C:\Users\Lidia\Desktop\python\estructuras_control_1\ejercicios\radares_tramo.py
+6=ejercicios.radares_tramo
+2=ejercicios.zapping
+-- END DICTIONARY
+-- START TREE 1
+12
+ade|1|adelante!1^5#5*19@
+atr|1|atras!1^6#5*19@
+can|2|canaldestino!1^2#1*19@canalactual!1^1#1*19@
+con|2|contadorvecino!3^17#1*35@contadormio!3^10#1*35@
+hor|1|horas!5^6#1*51@
+kil|1|kilometros!5^5#1*51@
+lit|4|litrosvecino!3^5#1*35@litrosmios!3^1#1*35@litrospiscinavecino!3^16#1*35@litrosmipiscina!3^9#1*35@
+max|1|maximo!5^2#1*51@
+med|1|media!5^7#1*51@
+met|1|metros!5^1#1*51@
+per|2|perdidasmias!3^3#1*35@perdidasvecino!3^7#1*35@
+seg|1|segundos!5^3#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

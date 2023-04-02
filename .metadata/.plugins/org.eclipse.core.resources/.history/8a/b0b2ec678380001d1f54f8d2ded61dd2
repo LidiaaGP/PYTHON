@@ -1,0 +1,4 @@
+class empleado:
+    def __init__(self,dni,nombre,salariobruto):
+        
+        

@@ -1,0 +1,34 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\variables_operadores2\com.python.pydev.analysis\v2_indexcache
+variables_op2.ejercicio1|1667384042000000000|C:\Users\Lidia\Desktop\python\variables_operadores2\variables_op2\ejercicio1.py
+variables_op2.ejercicio3|1667385554000000000|C:\Users\Lidia\Desktop\python\variables_operadores2\variables_op2\ejercicio3.py
+variables_op2.ejercicio2|1667384848000000000|C:\Users\Lidia\Desktop\python\variables_operadores2\variables_op2\ejercicio2.py
+variables_op2.__init__|1670262095028305000|C:\Users\Lidia\Desktop\python\variables_operadores2\variables_op2|^
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=C:\Users\Lidia\Desktop\python\variables_operadores2\variables_op2\ejercicio3.py
+6=variables_op2.ejercicio1
+2=variables_op2.ejercicio3
+4=variables_op2.ejercicio2
+5=C:\Users\Lidia\Desktop\python\variables_operadores2\variables_op2\ejercicio1.py
+3=C:\Users\Lidia\Desktop\python\variables_operadores2\variables_op2\ejercicio2.py
+-- END DICTIONARY
+-- START TREE 1
+11
+A|1|A!1^1#1*19@
+E|1|E!1^2#1*19@
+a|1|a!3^2#1*35@
+b|1|b!3^3#1*35@
+c|1|c!3^4#1*35@
+cel|1|celsius!5^2#1*51@
+k|1|k!1^3#1*19@
+kel|1|kelvin!5^1#1*51@
+pes|1|PesoIdeal!1^5#1*19@
+x1|1|x1!3^5#1*35@
+x2|1|x2!3^6#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

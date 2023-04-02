@@ -1,0 +1,51 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\Ejemplos\com.python.pydev.analysis\v2_indexcache
+ejemplos01.ejemplo01|1666950568000000000|C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo01.py
+ejemplos01.__init__|1670262095296110000|C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01|^
+ejemplos01.ejemplo06|1666950920000000000|C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo06.py
+ejemplos01.ejemplo04|1666950112000000000|C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo04.py
+ejemplos01.ejemplo05|1666950616000000000|C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo05.py
+ejemplos01.ejemplo02|1666949562000000000|C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo02.py
+ejemplos01.ejemplo03|1666949806000000000|C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo03.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+11=C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo02.py
+2=ejemplos01.ejemplo01
+8=ejemplos01.ejemplo06
+4=ejemplos01.ejemplo04
+5=C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo05.py
+6=ejemplos01.ejemplo05
+1=C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo01.py
+7=C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo06.py
+12=ejemplos01.ejemplo02
+3=C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo04.py
+9=C:\Users\Lidia\Desktop\python\Ejemplos\ejemplos01\ejemplo03.py
+10=ejemplos01.ejemplo03
+-- END DICTIONARY
+-- START TREE 1
+19
+PI|1|PI!1^25#1*19@
+bol|2|boleano2!3^4#1*35@boleano1!3^3#1*35@
+boo|1|booleano1!1^9#1*19@
+con|1|concatenar!5^15#1*51@
+div|2|div!7^21#1*67@diventera!7^27#1*67@
+eda|1|edad!3^16#1*35@
+fra|2|fraccion2!9^7#1*83@fraccion1!9^6#1*83@
+jub|1|jubilado!3^18#1*35@
+may|1|mayoredad!3^17#1*35@
+men|1|mensaje!1^8#1*19@
+mul|1|mult!7^19#1*67@
+num|4|numero2!11^12#1*99@numero1!1^6#1*19@numero1!11^11#1*99@numero2!1^7#1*19@
+pot|1|potencia!7^31#1*67@
+pue|1|puedetrabajar!3^19#1*35@
+rep|1|repetido!5^19#1*51@
+res|5|resultadonot!3^9#1*35@resta!7^17#1*67@resultadoor!3^8#1*35@resultadoand!3^7#1*35@resto!7^23#1*67@
+sum|2|suma!7^15#1*67@suma!9^12#1*83@
+tex|2|texto2!5^12#1*51@texto1!5^3#1*51@
+var|1|variable1!11^2#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,103 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\Ejemplos05\com.python.pydev.analysis\v2_indexcache
+ejemplo01.Cliente|1669200654000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\Cliente.py
+ejemplo04.__init__|1670262094166127000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo04|^
+ejemplo02.Velero|1669200694000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo02\Velero.py
+ejemplo01.programa|1669200678000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\programa.py
+ejemplo02.Barco|1669200040000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo02\Barco.py
+ejemplo04.Persona|1669200716000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo04\Persona.py
+ejemplo01.__init__|1670262094089497000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01|^
+ejemplo02.programa|1669200700000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo02\programa.py
+ejemplo01.Comercial|1669200666000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\Comercial.py
+ejemplo01.Persona|1669199016000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\Persona.py
+ejemplo02.__init__|1670262094122474000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo02|^
+ejemplo03.programa|1669201948000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo03\programa.py
+ejemplo01.Empleado|1669200670000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\Empleado.py
+ejemplo03.__init__|1670262094133442000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo03|^
+ejemplo04.ExcepcionDNI|1669200598000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo04\ExcepcionDNI.py
+ejemplo04.programa|1669201200000000000|C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo04\programa.py
+-- END DISKCACHE
+-- START DICTIONARY
+48
+1=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo02\Barco.py
+8=ejemplo01.Cliente
+35=Persona
+24=ejemplo02.Velero
+39=Velero
+2=ejemplo02.Barco
+32=Persona.set_dni
+42=Barco.set_matricula
+4=ejemplo02.programa
+25=Barco.__init__
+22=ejemplo01.Persona
+38=Barco
+44=Persona.set_nombre
+37=Empleado
+16=ejemplo01.Empleado
+30=Cliente.set_descuento
+27=Comercial.__init__
+21=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\Persona.py
+48=Empleado.set_salario
+40=ExcepcionDNI
+17=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo04\ExcepcionDNI.py
+14=ejemplo04.programa
+34=Cliente
+26=Barco.set_ancho
+28=Comercial.set_comision
+5=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\programa.py
+45=Velero.__init__
+6=ejemplo01.programa
+9=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\Comercial.py
+13=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo04\programa.py
+47=Empleado.__init__
+20=ejemplo04.Persona
+29=Cliente.__init__
+11=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo03\programa.py
+33=Persona.set_edad
+7=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\Cliente.py
+3=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo02\programa.py
+31=Persona.__init__
+10=ejemplo01.Comercial
+19=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo04\Persona.py
+12=ejemplo03.programa
+23=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo02\Velero.py
+46=Velero.set_num_mastiles
+15=C:\Users\Lidia\Desktop\python\Ejemplos05\ejemplo01\Empleado.py
+18=ejemplo04.ExcepcionDNI
+36=Comercial
+41=Barco.set_largo
+43=ExcepcionDNI.__init__
+-- END DICTIONARY
+-- START TREE 1
+13
+bar|2|Barco!1^1#7*17@barco1!3^4#1*35@
+cli|2|cliente1!5^9#1*51@Cliente!7^3#7*65@
+com|2|Comercial!9^3#7*81@comercial1!5^15#1*51@
+div|1|division!11^5#5*99@
+dni|1|DNI!13^5#5*115@
+eda|1|edad!13^7#5*115@
+emp|2|Empleado!15^3#7*129@empleado1!5^12#1*51@
+exc|1|ExcepcionDNI!17^1#7*145@
+nom|1|nombre!13^6#5*115@
+num|2|numero1!11^2#5*99@numero2!11^3#5*99@
+per|4|persona1!13^8#5*115@Persona!19^2#7*161@Persona!21^1#7*177@persona1!5^6#1*51@
+tb|1|tb!11^10#5*99@
+vel|2|velero1!3^7#1*35@Velero!23^3#7*193@
+-- END TREE
+-- START TREE 2
+13
+__a|2|__ancho!25&1^6#9*19@__ancho!26&1^29#9*19@
+__c|2|__comision!27&9^7#9*83@__comision!28&9^13#9*83@
+__d|6|__descuento!29&7^7#9*67@__descuento!30&7^14#9*67@__DNI!31&21^4#9*179@__DNI!32&21^21#9*179@__DNI!31&19^6#13*163@__DNI!32&19^23#13*163@
+__e|4|__edad!31&21^6#9*179@__edad!33&21^29#9*179@__edad!31&19^10#9*163@__edad!33&19^31#9*163@
+__i|8|__init__!34&7^5#9*66@__init__!35&21^3#9*178@__init__!36&9^5#9*82@__init__!37&15^5#9*130@__init__!38&1^3#9*18@__init__!39&23^5#9*194@__init__!35&19^4#9*162@__init__!40&17^3#9*146@
+__l|2|__largo!25&1^5#9*19@__largo!41&1^25#9*19@
+__m|3|__matricula!25&1^4#9*19@__matricula!42&1^21#9*19@__mensaje!43&17^4#9*147@
+__n|6|__nombre!31&19^9#9*163@__nombre!44&19^28#9*163@__nombre!31&21^5#9*179@__nombre!44&21^25#9*179@__numMastiles!45&23^7#9*195@__numMastiles!46&23^14#9*195@
+__s|2|__salario!47&15^7#9*131@__salario!48&15^14#9*131@
+get|14|get_nombre!35&21^12#9*178@get_edad!35&21^16#9*178@get_salario!37&15^9#9*130@get_matricula!38&1^8#9*18@get_dni!35&19^12#9*162@get_comision!36&9^9#9*82@get_descuento!34&7^9#9*66@get_nombre!35&19^15#9*162@get_edad!35&19^18#9*162@get_dni!35&21^8#9*178@get_ancho!38&1^16#9*18@get_num_mastiles!39&23^9#9*194@get_largo!38&1^12#9*18@get_mensaje!40&17^6#9*146@
+pre|2|precio_dia_alquiler!38&1^31#9*18@precio_dia_alquiler!39&23^16#9*194@
+set|13|set_comision!36&9^12#9*82@set_descuento!34&7^13#9*66@set_dni!35&19^21#9*162@set_num_mastiles!39&23^13#9*194@set_nombre!35&19^27#9*162@set_matricula!38&1^20#9*18@set_salario!37&15^13#9*130@set_ancho!38&1^28#9*18@set_largo!38&1^24#9*18@set_nombre!35&21^24#9*178@set_dni!35&21^20#9*178@set_edad!35&19^30#9*162@set_edad!35&21^28#9*178@
+tos|7|toString!37&15^16#9*130@toString!34&7^16#9*66@toString!35&19^34#9*162@toString!35&21^32#9*178@toString!36&9^15#9*82@toString!38&1^34#9*18@toString!39&23^19#9*194@
+-- END TREE

@@ -1,0 +1,101 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\SolucionClases02\com.python.pydev.analysis\v2_indexcache
+ejercicio01.ejercicio|1671544058640544000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio01\ejercicio.py
+ejercicio03.Rectangulo|1671544058829544000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio03\Rectangulo.py
+ejercicio01.Reloj|1671544058673544000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio01\Reloj.py
+ejercicio04.__init__|1671544058872545000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio04|^
+ejercicio05.NotasAlumno|1671544058976544000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio05\NotasAlumno.py
+ejercicio02.ejercicio|1671544058716544000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio02\ejercicio.py
+ejercicio03.__init__|1671544058795544000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio03|^
+ejercicio02.__init__|1671544058720543000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio02|^
+ejercicio05.ejercicio|1671544058942544000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio05\ejercicio.py
+ejercicio03.ejercicio|1671544058790542000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio03\ejercicio.py
+ejercicio02.Vehiculo|1671544058749544000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio02\Vehiculo.py
+ejercicio04.ejercicio|1671544058869543000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio04\ejercicio.py
+ejercicio01.__init__|1671544058678544000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio01|^
+ejercicio04.Empleado|1671544058902544000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio04\Empleado.py
+ejercicio05.__init__|1671544058981317000|C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio05|^
+-- END DISKCACHE
+-- START DICTIONARY
+41
+32=NotasAlumno.set_nota_eval_2
+35=NotasAlumno.set_nota_eval_3
+36=Reloj.set_precio
+16=ejercicio01.ejercicio
+33=NotasAlumno.set_nota_eval_1
+10=ejercicio03.Rectangulo
+3=C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio04\Empleado.py
+19=C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio02\Vehiculo.py
+40=Vehiculo.__init__
+14=ejercicio01.Reloj
+8=ejercicio05.NotasAlumno
+22=NotasAlumno.set_asignatura
+34=NotasAlumno.set_nombre
+28=NotasAlumno
+38=Rectangulo.__init__
+41=Reloj.__init__
+25=Empleado
+29=Rectangulo
+17=C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio02\ejercicio.py
+7=C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio05\NotasAlumno.py
+15=C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio01\ejercicio.py
+37=Reloj.set_stock
+21=NotasAlumno.__init__
+1=C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio05\ejercicio.py
+24=Reloj.set_es_digital
+11=C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio03\ejercicio.py
+6=ejercicio04.ejercicio
+5=C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio04\ejercicio.py
+26=Reloj
+39=Empleado.__init__
+18=ejercicio02.ejercicio
+27=Vehiculo
+30=Reloj.set_marca
+31=Reloj.set_modelo
+2=ejercicio05.ejercicio
+12=ejercicio03.ejercicio
+20=ejercicio02.Vehiculo
+9=C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio03\Rectangulo.py
+4=ejercicio04.Empleado
+13=C:\Users\Lidia\Desktop\python\SolucionClases02\ejercicio01\Reloj.py
+23=NotasAlumno.set_apellidos
+-- END DICTIONARY
+-- START TREE 1
+7
+alu|1|alumno1!1^3#1*19@
+emp|2|Empleado!3^1#7*33@empleado1!5^2#1*51@
+not|1|NotasAlumno!7^1#7*65@
+rec|2|Rectangulo!9^1#7*81@rectangulo1!11^3#1*99@
+rel|3|Reloj!13^1#7*113@reloj1!15^3#1*131@reloj2!15^10#1*131@
+sum|1|suma!15^17#1*131@
+veh|3|vehiculo2!17^9#1*147@Vehiculo!19^1#7*161@vehiculo1!17^3#1*147@
+-- END TREE
+-- START TREE 2
+25
+__a|4|__asignatura!21&7^4#9*67@__apellidos!21&7^6#9*67@__asignatura!22&7^36#9*67@__apellidos!23&7^44#9*67@
+__e|1|__esDigital!24&13^47#9*115@
+__i|5|__init__!25&3^3#9*34@__init__!26&13^3#9*114@__init__!27&19^4#9*162@__init__!28&7^3#9*66@__init__!29&9^4#9*82@
+__m|2|__marca!30&13^31#9*115@__modelo!31&13^35#9*115@
+__n|8|__nota_eval2!21&7^8#9*67@__nota_eval2!32&7^52#9*67@__nota_eval1!21&7^7#9*67@__nota_eval1!33&7^48#9*67@__nombre!21&7^5#9*67@__nota_eval3!21&7^9#9*67@__nombre!34&7^40#9*67@__nota_eval3!35&7^56#9*67@
+__p|1|__precio!36&13^39#9*115@
+__s|1|__stock!37&13^43#9*115@
+alt|1|altura!38&9^6#9*83@
+ape|1|apellidos!39&3^6#8*35@
+are|1|area!29&9^12#9*82@
+bas|1|base!38&9^5#9*83@
+col|1|color!40&19^7#9*163@
+dni|1|dni!39&3^4#8*35@
+esd|1|esDigital!41&13^8#9*115@
+get|11|get_nombre!28&7^15#9*66@get_nota_eval_1!28&7^23#9*66@get_marca!26&13^10#9*114@get_nota_eval_3!28&7^31#9*66@get_modelo!26&13^14#9*114@get_precio!26&13^18#9*114@get_stock!26&13^22#9*114@get_asignatura!28&7^11#9*66@get_es_digital!26&13^26#9*114@get_nota_eval_2!28&7^27#9*66@get_apellidos!28&7^19#9*66@
+mar|2|marca!41&13^4#9*115@marca!40&19^5#9*163@
+med|1|media!28&7^58#9*66@
+mod|2|modelo!40&19^6#9*163@modelo!41&13^5#9*115@
+nom|1|nombre!39&3^5#8*35@
+num|1|num_ruedas!40&19^8#9*163@
+per|1|perimetro!29&9^9#9*82@
+pre|3|precio!41&13^6#9*115@precio_IVA!27&19^12#9*162@precio!40&19^9#9*163@
+sal|2|salario_neto!25&3^9#9*34@salario!39&3^7#8*35@
+set|11|set_marca!26&13^30#9*114@set_asignatura!28&7^35#9*66@set_nota_eval_3!28&7^55#9*66@set_nombre!28&7^39#9*66@set_stock!26&13^42#9*114@set_nota_eval_2!28&7^51#9*66@set_modelo!26&13^34#9*114@set_precio!26&13^38#9*114@set_apellidos!28&7^43#9*66@set_nota_eval_1!28&7^47#9*66@set_es_digital!26&13^46#9*114@
+sto|1|stock!41&13^7#9*115@
+-- END TREE

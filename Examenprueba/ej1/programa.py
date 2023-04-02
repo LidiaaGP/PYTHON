@@ -1,0 +1,8 @@
+from ej1.television import television
+
+television1=television("TV1","Thompson","TH1",2020,200)
+
+television2=television("TV2","LG","LG1",2021,400)
+
+print(television1.toString())
+print(television2.toString())

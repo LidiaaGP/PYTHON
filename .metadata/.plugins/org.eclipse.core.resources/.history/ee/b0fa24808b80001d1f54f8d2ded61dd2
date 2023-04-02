@@ -1,0 +1,4 @@
+from ej4.empleado import empleado
+from ej4.comercial import comercial
+from ej4.programador import programador
+empleado1=comercial("3454g", "pepe", 1200, 400, 12)

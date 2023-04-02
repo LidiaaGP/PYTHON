@@ -1,0 +1,5 @@
+from ej2.lavadora import lavadora
+lavadora1=lavadora(345, "A", 45)
+lavadora2=lavadora(564, "C", 89)
+print(lavadora1.toString())
+print(lavadora2.toString())

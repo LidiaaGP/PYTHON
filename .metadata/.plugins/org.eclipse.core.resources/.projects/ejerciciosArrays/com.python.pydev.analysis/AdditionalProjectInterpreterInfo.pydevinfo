@@ -1,0 +1,61 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Lidia\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\ejerciciosArrays\com.python.pydev.analysis\v2_indexcache
+ejerciciosArrays.__init__|1670262094348705000|C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays|^
+ejerciciosArrays.ejercicio9|1669372276000000000|C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio9.py
+ejerciciosArrays.ejercicio8|1669287502000000000|C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio8.py
+ejerciciosArrays.ejercicio7|1669286584000000000|C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio7.py
+ejerciciosArrays.ejercicio10|1669373088000000000|C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio10.py
+ejerciciosArrays.ejercicio2|1668681960000000000|C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio2.py
+ejerciciosArrays.ejercicio1|1668681760000000000|C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio1.py
+ejerciciosArrays.ejercicio6|1669285800000000000|C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio6.py
+ejerciciosArrays.ejercicio5|1669285004000000000|C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio5.py
+ejerciciosArrays.ejercicio4|1669197968000000000|C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio4.py
+ejerciciosArrays.ejercicio3|1668682386000000000|C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio3.py
+-- END DISKCACHE
+-- START DICTIONARY
+20
+9=C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio10.py
+15=C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio9.py
+16=ejerciciosArrays.ejercicio9
+11=C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio8.py
+12=ejerciciosArrays.ejercicio8
+4=ejerciciosArrays.ejercicio7
+3=C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio7.py
+10=ejerciciosArrays.ejercicio10
+2=ejerciciosArrays.ejercicio2
+19=C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio4.py
+8=ejerciciosArrays.ejercicio1
+13=C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio3.py
+17=C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio5.py
+5=C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio6.py
+6=ejerciciosArrays.ejercicio6
+7=C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio1.py
+1=C:\Users\Lidia\Desktop\python\ejerciciosArrays\ejerciciosArrays\ejercicio2.py
+18=ejerciciosArrays.ejercicio5
+20=ejerciciosArrays.ejercicio4
+14=ejerciciosArrays.ejercicio3
+-- END DICTIONARY
+-- START TREE 1
+17
+arr|4|array!1^1#1*19@array!3^1#1*35@array!5^1#1*51@array!7^1#1*67@
+art|1|articulos!9^2#1*83@
+con|3|contador!11^6#1*99@contador!9^10#1*83@contador!5^2#1*51@
+dia|2|dias_semana!13^1#1*115@dia!13^3#1*115@
+let|2|letras!15^1#1*131@letra!15^4#1*131@
+lis|1|lista1!17^4#1*147@
+max|1|maximo!17^12#1*147@
+may|1|mayor_precio!9^8#1*83@
+med|2|media!17^20#1*147@media!9^20#1*83@
+men|1|menor_precio!9^9#1*83@
+min|1|minimo!17^11#1*147@
+not|1|nota!17^5#1*147@
+num|3|numero!17^3#1*147@numero!5^6#1*51@numerodni!15^2#1*131@
+res|1|resto!15^3#1*131@
+sue|1|sueldo!11^1#1*99@
+sum|2|suma!17^10#1*147@suma!9^7#1*83@
+voc|1|vocales!19^1#1*163@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

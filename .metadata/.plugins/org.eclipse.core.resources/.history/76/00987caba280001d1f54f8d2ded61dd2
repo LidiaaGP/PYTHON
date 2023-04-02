@@ -1,0 +1,6 @@
+class excepcionedad(Exception):
+    def __init__(self):
+        self.__edad="La edad debe estar entre 1 y 120"
+        
+    def get_edad(self):
+        return self.get_edad()

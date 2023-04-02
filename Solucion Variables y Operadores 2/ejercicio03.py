@@ -1,0 +1,11 @@
+A=int(input("Dime altura en cm: "))
+E=int(input("Dime edad en años: "))
+k=float(input("Dime k (4-hombres 2.5-mujeres): "))
+lorenzt=A-100-((A-150)/4)+((E-20)/k)
+perroult=A-100+((E/10)*(9/10))
+brocca=A-100
+MLIC=50+0.75*(A-150)
+print("Peso ideal segun Lorenzt:",lorenzt)
+print("Peso ideal segun perroult:",perroult)
+print("Peso ideal segun brocca:",brocca)
+print("Peso ideal segun MLIC:",MLIC)
